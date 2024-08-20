@@ -1,9 +1,9 @@
 # PRODIGY_CS_01
 
-Task-01
+# Task-01
 Create a Python program that can encrypt and decrypt text using the Caesar Cipher algorithm. Allow users to input a message and a shift value to perform encryption and decryption
 
-Ceaser Cipher
+# Ceaser Cipher
 The Caesar cipher is a classic example of ancient cryptography that involves shifting each letter of a plaintext message by a certain number of letters, historically three. It is a type of substitution cipher where one letter is substituted for another in a consistent fashion. The earliest known use of a substitution cipher, and the simplest, was by Julius Caesar. The Caesar cipher involves replacing each letter of the alphabet with the letter standing three places further down the alphabet.
 
 For example,
@@ -66,6 +66,7 @@ Prompt the user to choose between encryption and decryption.
 Ask for the message and shift value.
 Perform the selected operation and display the result.
 Allow the user to perform multiple operations until they decide to exit.
-Repository Contents
+
+# Repository Contents
 PRODIGY_CS_01.py : The main Python script containing the implementation of the Caesar Cipher.
 README.md : This file, providing an overview of the task and the project.
